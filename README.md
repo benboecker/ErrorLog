@@ -1,2 +1,3 @@
 # ErrorLog
-simple error logging and displaying
+
+A description of this package.
